@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Phillip Prauuse
+## Author: Phillip Prause
